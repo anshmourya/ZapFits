@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "Women's Casual Dress",
+    "price": 34.99,
+    "description": "Comfortable and stylish casual dress for women.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 200
+    }
+  },
+  {
+    "id": 2,
+    "title": "Men's Slim Fit Shirt",
+    "price": 29.99,
+    "description": "Slim fit shirt for men, perfect for formal occasions.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 4.2,
+      "count": 150
+    }
+  },
+  {
+    "id": 3,
+    "title": "Women's Denim Jacket",
+    "price": 49.99,
+    "description": "Stylish denim jacket for women, great for layering.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 300
+    }
+  },
+  {
+    "id": 4,
+    "title": "Men's Sports Shorts",
+    "price": 19.99,
+    "description": "Comfortable sports shorts for men, suitable for workouts.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4,
+      "count": 100
+    }
+  },
+  {
+    "id": 5,
+    "title": "Women's Knit Sweater",
+    "price": 39.99,
+    "description": "Warm and cozy knit sweater for women, perfect for winter.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 250
+    }
+  },
+  {
+    "id": 6,
+    "title": "Men's Leather Jacket",
+    "price": 89.99,
+    "description": "Stylish leather jacket for men, suitable for all seasons.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 4.4,
+      "count": 180
+    }
+  },
+  {
+    "id": 7,
+    "title": "Women's Workout Leggings",
+    "price": 24.99,
+    "description": "Stretchy and comfortable leggings for women, ideal for workouts.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.2,
+      "count": 120
+    }
+  },
+  {
+    "id": 8,
+    "title": "Men's Casual T-Shirt",
+    "price": 14.99,
+    "description": "Casual and comfortable t-shirt for men, perfect for everyday wear.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 90
+    }
+  },
+  {
+    "id": 9,
+    "title": "Women's Summer Dress",
+    "price": 39.99,
+    "description": "Light and breezy summer dress for women, ideal for hot weather.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 220
+    }
+  },
+  {
+    "id": 10,
+    "title": "Men's Formal Suit",
+    "price": 149.99,
+    "description": "Elegant formal suit for men, perfect for special occasions.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    }
+  },
+  {
+    "id": 11,
+    "title": "Women's Hooded Sweatshirt",
+    "price": 29.99,
+    "description": "Cozy hooded sweatshirt for women, great for chilly days.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.3,
+      "count": 180
+    }
+  },
+  {
+    "id": 12,
+    "title": "Men's Polo Shirt",
+    "price": 19.99,
+    "description": "Classic polo shirt for men, suitable for casual or semi-formal occasions.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 150
+    }
+  },
+  {
+    "id": 13,
+    "title": "Women's High-Waisted Jeans",
+    "price": 39.99,
+    "description": "Stylish high-waisted jeans for women, perfect for any casual outfit.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 250
+    }
+  },
+  {
+    "id": 14,
+    "title": "Men's Cargo Shorts",
+    "price": 24.99,
+    "description": "Functional cargo shorts for men, with plenty of pocket space.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "rating": {
+      "rate": 4.2,
+      "count": 120
+    }
+  },
+  {
+    "id": 15,
+    "title": "Women's Floral Print Blouse",
+    "price": 34.99,
+    "description": "Beautiful floral print blouse for women, perfect for spring.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 300
+    }
+  },
+  {
+    "id": 16,
+    "title": "Men's V-Neck Sweater",
+    "price": 29.99,
+    "description": "Classic V-neck sweater for men, suitable for any occasion.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 4,
+      "count": 100
+    }
+  },
+  {
+    "id": 17,
+    "title": "Women's Active Leggings",
+    "price": 24.99,
+    "description": "Stylish and comfortable active leggings for women, great for workouts.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.4,
+      "count": 180
+    }
+  },
+  {
+    "id": 18,
+    "title": "Men's Graphic T-Shirt",
+    "price": 14.99,
+    "description": "Cool and trendy graphic t-shirt for men, perfect for casual wear.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 90
+    }
+  },
+  {
+    "id": 19,
+    "title": "Women's Maxi Dress",
+    "price": 49.99,
+    "description": "Elegant and flowy maxi dress for women, ideal for formal events.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 220
+    }
+  },
+  {
+    "id": 20,
+    "title": "Men's Denim Jacket",
+    "price": 59.99,
+    "description": "Classic denim jacket for men, a timeless wardrobe staple.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    }
+  },
+  {
+    "id": 21,
+    "title": "Women's Workout Tank Top",
+    "price": 19.99,
+    "description": "Breathable and moisture-wicking tank top for women, perfect for workouts.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.3,
+      "count": 180
+    }
+  },
+  {
+    "id": 22,
+    "title": "Men's Casual Jeans",
+    "price": 34.99,
+    "description": "Versatile and comfortable casual jeans for men, suitable for everyday wear.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 150
+    }
+  },
+  {
+    "id": 23,
+    "title": "Women's Leather Jacket",
+    "price": 89.99,
+    "description": "Stylish leather jacket for women, adds an edgy touch to any outfit.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 250
+    }
+  },
+  {
+    "id": 24,
+    "title": "Men's Hooded Sweatshirt",
+    "price": 29.99,
+    "description": "Warm and cozy hooded sweatshirt for men, perfect for colder days.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 4.2,
+      "count": 120
+    }
+  },
+  {
+    "id": 25,
+    "title": "Women's Cardigan Sweater",
+    "price": 39.99,
+    "description": "Versatile cardigan sweater for women, great for layering.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 300
+    }
+  },
+  {
+    "id": 26,
+    "title": "Men's Button-Down Shirt",
+    "price": 24.99,
+    "description": "Classic button-down shirt for men, suitable for both casual and formal occasions.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4,
+      "count": 100
+    }
+  },
+  {
+    "id": 27,
+    "title": "Women's Jogger Pants",
+    "price": 24.99,
+    "description": "Comfortable jogger pants for women, perfect for casual and athletic wear.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.4,
+      "count": 180
+    }
+  },
+  {
+    "id": 28,
+    "title": "Men's Varsity Jacket",
+    "price": 49.99,
+    "description": "Stylish varsity jacket for men, adds a sporty touch to any outfit.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 90
+    }
+  },
+  {
+    "id": 29,
+    "title": "Women's Pencil Skirt",
+    "price": 34.99,
+    "description": "Classic pencil skirt for women, perfect for professional or formal settings.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 220
+    }
+  },
+  {
+    "id": 30,
+    "title": "Men's Dress Shoes",
+    "price": 99.99,
+    "description": "Elegant dress shoes for men, adds a polished look to any attire.",
+    "category": "clothing",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    }
+  }
+]

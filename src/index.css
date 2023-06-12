@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Open Sans',
+    sans-serif;
+}
+
+.content {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.cart {
+  visibility: hidden;
+  cursor: pointer;
+}
+
+.product-card:hover .cart {
+  visibility: visible;
+}
+
+
+.product-card:hover {
+
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}

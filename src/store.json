@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "storeName": "Fashionista Boutique",
+    "km": 2.5,
+    "rating": 4.2,
+    "storeImage": "https://example.com/fashionista_boutique.jpg",
+    "reviews": [
+      "Amazing collection of trendy clothes.",
+      "Great customer service.",
+      "Affordable prices."
+    ],
+    "image": "./assets/store4.webp"
+  },
+  {
+    "id": 2,
+    "storeName": "Designer Outlet",
+    "km": 8.7,
+    "rating": 4.8,
+    "storeImage": "https://example.com/designer_outlet.jpg",
+    "reviews": [
+      "High-quality designer clothing at discounted prices.",
+      "Wide selection of brands.",
+      "Helpful and friendly staff."
+    ],
+    "image": "./assets/store4.webp"
+  },
+  {
+    "id": 3,
+    "storeName": "Chic Boutique",
+    "km": 3.2,
+    "rating": 4.5,
+    "storeImage": "https://example.com/chic_boutique.jpg",
+    "reviews": [
+      "Stylish and unique clothing options.",
+      "Excellent customer service.",
+      "Reasonable prices."
+    ],
+    "image": "./assets/store2.webp"
+  },
+  {
+    "id": 4,
+    "storeName": "Trendy Threads",
+    "km": 5.1,
+    "rating": 4.3,
+    "storeImage": "https://example.com/trendy_threads.jpg",
+    "reviews": [
+      "Always up-to-date with the latest fashion trends.",
+      "Friendly and helpful staff.",
+      "Good value for money."
+    ],
+    "image": "./assets/store7.webp"
+  },
+  {
+    "id": 5,
+    "storeName": "Urban Chic",
+    "km": 6.3,
+    "rating": 4.7,
+    "storeImage": "https://example.com/urban_chic.jpg",
+    "reviews": [
+      "Trendy and fashionable clothing choices.",
+      "Great discounts and promotions.",
+      "Attentive and knowledgeable staff."
+    ],
+    "image": "./assets/store3.webp"
+  },
+  {
+    "id": 6,
+    "storeName": "Classic Couture",
+    "km": 9.8,
+    "rating": 4.1,
+    "storeImage": "https://example.com/classic_couture.jpg",
+    "reviews": [
+      "Elegant and timeless clothing options.",
+      "Excellent craftsmanship and quality.",
+      "Attentive and personalized service."
+    ],
+    "image": "./assets/store3.webp"
+  },
+  {
+    "id": 7,
+    "storeName": "Style Haven",
+    "km": 4.7,
+    "rating": 4.4,
+    "storeImage": "https://example.com/style_haven.jpg",
+    "reviews": [
+      "Wide range of styles for every taste.",
+      "Affordable and budget-friendly prices.",
+      "Friendly and helpful staff."
+    ],
+    "image": "./assets/store1.webp"
+  },
+  {
+    "id": 8,
+    "storeName": "Fashion Forward",
+    "km": 3.9,
+    "rating": 4.6,
+    "storeImage": "https://example.com/fashion_forward.jpg",
+    "reviews": [
+      "On-trend fashion choices.",
+      "Great selection of accessories.",
+      "Quick and efficient service."
+    ],
+    "image": "./assets/store7.webp"
+  },
+  {
+    "id": 9,
+    "storeName": "Modern Attire",
+    "km": 7.2,
+    "rating": 4,
+    "storeImage": "https://example.com/modern_attire.jpg",
+    "reviews": [
+      "Contemporary and stylish clothing options.",
+      "Attentive and friendly staff.",
+      "Reasonable prices for the quality."
+    ],
+    "image": "./assets/store6.webp"
+  },
+  {
+    "id": 10,
+    "storeName": "Casual Comfort",
+    "km": 5.6,
+    "rating": 4.3,
+    "storeImage": "https://example.com/casual_comfort.jpg",
+    "reviews": [
+      "Relaxed and comfortable clothing choices.",
+      "Helpful and knowledgeable staff.",
+      "Great for everyday wear."
+    ],
+    "image": "./assets/store1.webp"
+  },
+  {
+    "id": 11,
+    "storeName": "Elegant Edge",
+    "km": 10.5,
+    "rating": 4.7,
+    "storeImage": "https://example.com/elegant_edge.jpg",
+    "reviews": [
+      "Sophisticated and classy clothing options.",
+      "High-quality materials and craftsmanship.",
+      "Attentive and professional staff."
+    ],
+    "image": "./assets/store6.webp"
+  },
+  {
+    "id": 12,
+    "storeName": "Trendsetters",
+    "km": 4.3,
+    "rating": 4.2,
+    "storeImage": "https://example.com/trendsetters.jpg",
+    "reviews": [
+      "Always up-to-date with the latest fashion trends.",
+      "Friendly and helpful staff.",
+      "Great deals and promotions."
+    ],
+    "image": "./assets/store5.webp"
+  },
+  {
+    "id": 13,
+    "storeName": "Chic and Cozy",
+    "km": 6.9,
+    "rating": 4.4,
+    "storeImage": "https://example.com/chic_and_cozy.jpg",
+    "reviews": [
+      "Stylish and comfortable clothing choices.",
+      "Warm and inviting atmosphere.",
+      "Helpful and knowledgeable staff."
+    ],
+    "image": "./assets/store6.webp"
+  },
+  {
+    "id": 14,
+    "storeName": "Style Junction",
+    "km": 3.5,
+    "rating": 4.1,
+    "storeImage": "https://example.com/style_junction.jpg",
+    "reviews": [
+      "Wide range of styles to suit every taste.",
+      "Friendly and attentive staff.",
+      "Reasonable prices for the quality."
+    ],
+    "image": "./assets/store1.webp"
+  },
+  {
+    "id": 15,
+    "storeName": "Fashion Frenzy",
+    "km": 8.1,
+    "rating": 4.6,
+    "storeImage": "https://example.com/fashion_frenzy.jpg",
+    "reviews": [
+      "Exciting and trendy clothing options.",
+      "Helpful and friendly staff.",
+      "Good value for money."
+    ],
+    "image": "./assets/store2.webp"
+  },
+  {
+    "id": 16,
+    "storeName": "Casual Chic",
+    "km": 5.4,
+    "rating": 4.3,
+    "storeImage": "https://example.com/casual_chic.jpg",
+    "reviews": [
+      "Relaxed and stylish clothing choices.",
+      "Great selection of casual wear.",
+      "Friendly and knowledgeable staff."
+    ],
+    "image": "./assets/store2.webp"
+  },
+  {
+    "id": 17,
+    "storeName": "Couture Collection",
+    "km": 9.3,
+    "rating": 4,
+    "storeImage": "https://example.com/couture_collection.jpg",
+    "reviews": [
+      "Exclusive and high-end clothing options.",
+      "Impeccable craftsmanship and quality.",
+      "Attentive and personalized service."
+    ],
+    "image": "./assets/store5.webp"
+  },
+  {
+    "id": 18,
+    "storeName": "Trendy Tots",
+    "km": 4.9,
+    "rating": 4.5,
+    "storeImage": "https://example.com/trendy_tots.jpg",
+    "reviews": [
+      "Fashionable and adorable clothing for kids.",
+      "Friendly and helpful staff.",
+      "Good variety of sizes and styles."
+    ],
+    "image": "./assets/store2.webp"
+  },
+  {
+    "id": 19,
+    "storeName": "Street Style",
+    "km": 6.7,
+    "rating": 4.2,
+    "storeImage": "https://example.com/street_style.jpg",
+    "reviews": [
+      "Trendy and urban clothing choices.",
+      "Great selection of streetwear.",
+      "Attentive and knowledgeable staff."
+    ],
+    "image": "./assets/store2.webp"
+  },
+  {
+    "id": 20,
+    "storeName": "Vintage Vibes",
+    "km": 3.7,
+    "rating": 4.7,
+    "storeImage": "https://example.com/vintage_vibes.jpg",
+    "reviews": [
+      "Unique and retro clothing options.",
+      "Great quality vintage pieces.",
+      "Helpful and friendly staff."
+    ],
+    "image": "./assets/store1.webp"
+  },
+  {
+    "id": 21,
+    "storeName": "Formal Affairs",
+    "km": 10.2,
+    "rating": 4.4,
+    "storeImage": "https://example.com/formal_affairs.jpg",
+    "reviews": [
+      "Elegant and sophisticated formal wear.",
+      "Attentive and professional staff.",
+      "Great alteration services."
+    ],
+    "image": "./assets/store4.webp"
+  },
+  {
+    "id": 22,
+    "storeName": "Sports Style",
+    "km": 5.8,
+    "rating": 4.1,
+    "storeImage": "https://example.com/sports_style.jpg",
+    "reviews": [
+      "Stylish and functional sportswear.",
+      "Wide selection of athletic brands.",
+      "Helpful and knowledgeable staff."
+    ],
+    "image": "./assets/store5.webp"
+  },
+  {
+    "id": 23,
+    "storeName": "Boho Chic",
+    "km": 9.6,
+    "rating": 4.6,
+    "storeImage": "https://example.com/boho_chic.jpg",
+    "reviews": [
+      "Free-spirited and bohemian clothing choices.",
+      "Great variety of boho accessories.",
+      "Friendly and helpful staff."
+    ],
+    "image": "./assets/store3.webp"
+  },
+  {
+    "id": 24,
+    "storeName": "Fashion Plus",
+    "km": 4.1,
+    "rating": 4.3,
+    "storeImage": "https://example.com/fashion_plus.jpg",
+    "reviews": [
+      "Fashionable clothing options for all sizes.",
+      "Attentive and friendly staff.",
+      "Reasonable prices for the quality."
+    ],
+    "image": "./assets/store6.webp"
+  },
+  {
+    "id": 25,
+    "storeName": "Couture Kids",
+    "km": 7.5,
+    "rating": 4,
+    "storeImage": "https://example.com/couture_kids.jpg",
+    "reviews": [
+      "Stylish and trendy clothing for children.",
+      "Good selection of designer brands.",
+      "Helpful and knowledgeable staff."
+    ],
+    "image": "./assets/store3.webp"
+  },
+  {
+    "id": 26,
+    "storeName": "Denim Delight",
+    "km": 4.5,
+    "rating": 4.2,
+    "storeImage": "https://example.com/denim_delight.jpg",
+    "reviews": [
+      "Wide range of denim options.",
+      "Helpful and friendly staff.",
+      "Good quality jeans."
+    ],
+    "image": "./assets/store4.webp"
+  },
+  {
+    "id": 27,
+    "storeName": "Runway Ready",
+    "km": 6.4,
+    "rating": 4.4,
+    "storeImage": "https://example.com/runway_ready.jpg",
+    "reviews": [
+      "Fashion-forward clothing choices.",
+      "Attentive and knowledgeable staff.",
+      "Good selection of designer pieces."
+    ],
+    "image": "./assets/store2.webp"
+  },
+  {
+    "id": 28,
+    "storeName": "Trendy Teens",
+    "km": 3.8,
+    "rating": 4.6,
+    "storeImage": "https://example.com/trendy_teens.jpg",
+    "reviews": [
+      "Fashionable and trendy clothing for teenagers.",
+      "Helpful and friendly staff.",
+      "Affordable prices for young shoppers."
+    ],
+    "image": "./assets/store1.webp"
+  },
+  {
+    "id": 29,
+    "storeName": "Couture Creations",
+    "km": 8.4,
+    "rating": 4.3,
+    "storeImage": "https://example.com/couture_creations.jpg",
+    "reviews": [
+      "Exclusive and luxurious clothing options.",
+      "Impeccable craftsmanship and design.",
+      "Attentive and personalized service."
+    ],
+    "image": "./assets/store4.webp"
+  },
+  {
+    "id": 30,
+    "storeName": "Fashion Fusion",
+    "km": 5.3,
+    "rating": 4,
+    "storeImage": "https://example.com/fashion_fusion.jpg",
+    "reviews": [
+      "Unique and eclectic fashion choices.",
+      "Friendly and helpful staff.",
+      "Reasonable prices for the style."
+    ],
+    "image": "./assets/store2.webp"
+  }
+]
